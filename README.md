@@ -1,7 +1,7 @@
 # cloudflared-installer - install cloudflared with one command using cloudflare package repository
 
 ## Requirements:
-curl
+- curl
 
 ## Supported operating systems
 
